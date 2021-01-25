@@ -37,6 +37,6 @@ Access the web application through [Github Pages](https://levieuxsinge.github.io
 
 ## Team
 
-**Xavier Champoux** — _Programmer and Designer_ | :point-right: [Instagram](https://www.instagram.com/doldmk/?hl=fr) :point-left:
+**Xavier Champoux** — _Programmer and Designer_ | [Instagram](https://www.instagram.com/doldmk/?hl=fr)
 
 > :postbox: **Contact Us** through our social medias.
