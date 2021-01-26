@@ -18,7 +18,7 @@
               <v-list-item-title>{{ group.title }}</v-list-item-title>
           </template>
 
-          <v-list-item v-for="(item, index) in group.items" :key="index" link nuxt class="pl-16 mb-1">
+          <v-list-item v-for="(item, index) in group.items" :key="index" :to="item.to" nuxt class="pl-16 mb-1">
 
             <v-list-item-title v-text="item.title"></v-list-item-title>
           
@@ -52,7 +52,16 @@ export default {
         title: 'Chinese (Simplified)',
         items: [
           {
-            title: 'Random',
+            title: 'All',
+            to: '/'
+          },
+          {
+            title: 'Week 1',
+            to: '/chinese-simplified/week-1'
+          },
+          {
+            title: 'Week 2',
+            to: '/chinese-simplified/week-2'
           },
         ],
       },

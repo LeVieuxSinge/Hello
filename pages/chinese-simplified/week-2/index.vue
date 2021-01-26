@@ -89,7 +89,7 @@ export default {
 
       // Fill array if empty
       if (this.items.length === 0) {
-        this.items = this.$hello.chinese.getAll();
+        this.items = this.$hello.chinese.getWeek(2);
       }
 
       // Select random index
