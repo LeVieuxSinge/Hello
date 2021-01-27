@@ -1,6 +1,6 @@
 # Hello
 
-> Build version **_1.0_**
+> Build version **_1.0.2_**
 
 > Last update January 25, 2021;
 
@@ -12,7 +12,10 @@ _Hello is a language learning application focused on infinite practice._
 
 ## Roadmap
 
-- [ ] Construct the app.
+- [x] Construct the app
+- [ ] Add country / city section
+- [ ] Add basic sentences
+- [x] Add basic numbers (1 - 10)
 
 ---
 ## How to use

@@ -1,4 +1,56 @@
 var simplified = {
+  numbers: [
+    {
+      translation: 'One | 1',
+      pinyin: 'yī',
+      symbol: '一',
+    },
+    {
+      translation: 'Two | 2',
+      pinyin: 'èr',
+      symbol: '二',
+    },
+    {
+      translation: 'Three | 3',
+      pinyin: 'sān',
+      symbol: '三',
+    },
+    {
+      translation: 'Four | 4',
+      pinyin: 'sì',
+      symbol: '四',
+    },
+    {
+      translation: 'Five | 5',
+      pinyin: 'wǔ',
+      symbol: '五',
+    },
+    {
+      translation: 'Six | 6',
+      pinyin: 'liù',
+      symbol: '六',
+    },
+    {
+      translation: 'Seven | 7',
+      pinyin: 'qī',
+      symbol: '七',
+    },
+    {
+      translation: 'Height | 8',
+      pinyin: 'bā',
+      symbol: '八',
+    },
+    {
+      translation: 'Nine | 9',
+      pinyin: 'jiǔ',
+      symbol: '九',
+    },
+    {
+      translation: 'Ten | 10',
+      pinyin: 'shí',
+      symbol: '十',
+    },
+  ],
   weeks: [{
     name: 'One',
     items: [{
@@ -160,6 +212,11 @@ var hello = {
       for (let i = 0; i < simplified.weeks.length; i++) {
         output = output.concat(simplified.weeks[i].items);
       }
+      return output;
+    },
+    getNumbers: () => {
+      var output = [];
+      output = output.concat(simplified.numbers);
       return output;
     },
     getWeek: (number) => {

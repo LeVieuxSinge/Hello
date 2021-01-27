@@ -56,6 +56,10 @@ export default {
             to: '/'
           },
           {
+            title: 'Numbers',
+            to: '/chinese-simplified/numbers'
+          },
+          {
             title: 'Week 1',
             to: '/chinese-simplified/week-1'
           },
