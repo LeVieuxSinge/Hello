@@ -262,7 +262,7 @@ var simplified = {
         {
           translation: 'Male',
           pinyin: 'nán',
-          symbol: '男 ',
+          symbol: '男',
         },
         {
           translation: 'Younger Brother',
@@ -308,6 +308,100 @@ var simplified = {
           translation: 'Tall | High',
           pinyin: 'gāo',
           symbol: '高',
+        },
+      ],
+    },
+    {
+      name: 'Four',
+      items: [{
+          translation: 'Family | Home',
+          pinyin: 'jiā',
+          symbol: '家',
+        },
+        {
+          translation: 'How Many | Some',
+          pinyin: 'jĭ',
+          symbol: '几',
+        },
+        {
+          translation: 'Mouth | (Measure word for number of family member)',
+          pinyin: 'kŏu',
+          symbol: '口',
+        },
+        {
+          translation: 'Older Brother',
+          pinyin: 'gēge',
+          symbol: '哥哥',
+        },
+        {
+          translation: 'Two | A Couple Of',
+          pinyin: 'liăng',
+          symbol: '两',
+        },
+        {
+          translation: 'Younger Sister',
+          pinyin: 'mèimei',
+          symbol: '妹妹',
+        },
+        {
+          translation: 'And',
+          pinyin: 'hé',
+          symbol: '和',
+        },
+        {
+          translation: 'Eldest Sister',
+          pinyin: 'dàjiĕ',
+          symbol: '大姐',
+        },
+        {
+          translation: 'Second Oldest Sister',
+          pinyin: 'èrjiĕ',
+          symbol: '二姐',
+        },
+        {
+          translation: 'To do',
+          pinyin: 'zuò',
+          symbol: '做',
+        },
+        {
+          translation: 'Job | To work',
+          pinyin: 'gōngzuò',
+          symbol: '工作',
+        },
+        {
+          translation: 'Lawyer',
+          pinyin: 'lǜshī',
+          symbol: '律师',
+        },
+        {
+          translation: 'English (Language)',
+          pinyin: 'Yīngwén',
+          symbol: '英文',
+        },
+        {
+          translation: 'Both | All',
+          pinyin: 'dōu',
+          symbol: '都',
+        },
+        {
+          translation: 'He | Him',
+          pinyin: 'dàxuésheng',
+          symbol: '大学生',
+        },
+        {
+          translation: 'University | College',
+          pinyin: 'dàxué',
+          symbol: '大学',
+        },
+        {
+          translation: 'Doctor | Physician',
+          pinyin: 'yīshēng',
+          symbol: '医生',
+        },
+        {
+          translation: '(Personal Name)',
+          pinyin: 'Bái Yīng\'ài',
+          symbol: '白 英爱',
         },
       ],
     },
