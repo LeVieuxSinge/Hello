@@ -1,6 +1,6 @@
 # Hello
 
-> Build version **_1.0.4_**
+> Build version **_1.0.5_**
 
 > Last update January 25, 2021;
 

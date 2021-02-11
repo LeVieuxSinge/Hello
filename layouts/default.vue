@@ -60,6 +60,14 @@ export default {
             to: '/chinese-simplified/numbers'
           },
           {
+            title: 'Destinations',
+            to: '/chinese-simplified/destinations'
+          },
+          {
+            title: 'Professions',
+            to: '/chinese-simplified/professions'
+          },
+          {
             title: 'Week 1',
             to: '/chinese-simplified/week-1'
           },
@@ -74,6 +82,10 @@ export default {
           {
             title: 'Week 4',
             to: '/chinese-simplified/week-4'
+          },
+          {
+            title: 'Week 5',
+            to: '/chinese-simplified/week-5'
           },
         ],
       },
