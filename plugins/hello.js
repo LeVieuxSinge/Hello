@@ -581,11 +581,69 @@ var simplified = {
       pinyin: 'Yīngguó',
       symbol: '英国',
     }, ],
-  }, ],
-  other: [{
-    translation: 'Very',
-    pinyin: 'hěn',
-    symbol: '很',
+  }, {
+    name: 'Six',
+    items: [{
+      translation: 'Now',
+      pinyin: 'xiànzài',
+      symbol: '现在',
+    }, {
+      translation: 'Quarter (of an hour)',
+      pinyin: 'kè',
+      symbol: '刻',
+    }, {
+      translation: 'Matter | Affair | Event',
+      pinyin: 'shì(r)',
+      symbol: '事(儿)',
+    }, {
+      translation: 'Today',
+      pinyin: 'jīntiān',
+      symbol: '今天',
+    }, {
+      translation: 'Very',
+      pinyin: 'hěn',
+      symbol: '很',
+    }, {
+      translation: 'Busy',
+      pinyin: 'máng',
+      symbol: '忙',
+    }, {
+      translation: 'Tomorrow',
+      pinyin: 'míngtiān',
+      symbol: '明天',
+    }, {
+      translation: 'Dinner | Supper',
+      pinyin: 'wănfàn',
+      symbol: '晚饭',
+    }, {
+      translation: 'Why',
+      pinyin: 'wèishénme',
+      symbol: '为什么',
+    }, {
+      translation: 'For',
+      pinyin: 'wèi',
+      symbol: '为',
+    }, {
+      translation: 'Because',
+      pinyin: 'yīnwèi',
+      symbol: '因为',
+    }, {
+      translation: 'Also | Too | As well',
+      pinyin: 'hái',
+      symbol: '还',
+    }, {
+      translation: 'Classmate',
+      pinyin: 'tóngxué',
+      symbol: '同学',
+    }, {
+      translation: 'To recognize',
+      pinyin: 'rènshi',
+      symbol: '认识',
+    }, {
+      translation: 'Friend',
+      pinyin: 'péngyou',
+      symbol: '朋友',
+    }, ],
   }, ],
 };
 
