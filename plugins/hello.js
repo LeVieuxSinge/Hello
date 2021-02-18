@@ -644,6 +644,125 @@ var simplified = {
       pinyin: 'péngyou',
       symbol: '朋友',
     }, ],
+  }, {
+    name: 'Seven',
+    items: [{
+      translation: 'Weekend',
+      pinyin: 'zhōumò',
+      symbol: '周末',
+    }, {
+      translation: 'To play ball',
+      pinyin: 'dă qiú',
+      symbol: '打 球',
+    }, {
+      translation: 'To hit',
+      pinyin: 'dă',
+      symbol: '打',
+    }, {
+      translation: 'Ball',
+      pinyin: 'qiú',
+      symbol: '球',
+    }, {
+      translation: 'To watch | To look | To read',
+      pinyin: 'kàn',
+      symbol: '看',
+    }, {
+      translation: 'Television',
+      pinyin: 'diànshì',
+      symbol: '电视',
+    }, {
+      translation: 'Electricity',
+      pinyin: 'diàn',
+      symbol: '电',
+    }, {
+      translation: 'Vision',
+      pinyin: 'shì',
+      symbol: '视',
+    }, {
+      translation: 'To sing (a song)',
+      pinyin: 'chàng gē(r)',
+      symbol: '唱 歌(儿)',
+    }, {
+      translation: 'To sing',
+      pinyin: 'chàng',
+      symbol: '为',
+    }, {
+      translation: 'Song',
+      pinyin: 'gē',
+      symbol: '歌',
+    }, {
+      translation: 'To dance',
+      pinyin: 'tiào wŭ',
+      symbol: '跳舞',
+    }, {
+      translation: 'To jump',
+      pinyin: 'tiào',
+      symbol: '跳',
+    }, {
+      translation: 'Dance',
+      pinyin: 'wŭ',
+      symbol: '舞',
+    }, {
+      translation: 'To listen',
+      pinyin: 'tīng',
+      symbol: '听',
+    }, {
+      translation: 'Music',
+      pinyin: 'yīnyuè',
+      symbol: '音乐',
+    }, {
+      translation: 'Book',
+      pinyin: 'shū',
+      symbol: '书',
+    }, {
+      translation: 'Right | Correct',
+      pinyin: 'duì',
+      symbol: '对',
+    }, {
+      translation: 'Some',
+      pinyin: 'yŏude',
+      symbol: '有的',
+    }, {
+      translation: '(A point in) time | Moment',
+      pinyin: 'shíhou',
+      symbol: '时候',
+    }, {
+      translation: 'Movie',
+      pinyin: 'diànyĭng',
+      symbol: '电影',
+    }, {
+      translation: 'Shadow',
+      pinyin: 'yĭng',
+      symbol: '影',
+    }, {
+      translation: 'Often',
+      pinyin: 'chángcháng',
+      symbol: '常常',
+    }, {
+      translation: 'In that case | Open',
+      pinyin: 'nà',
+      symbol: '那',
+    }, {
+      translation: 'To go',
+      pinyin: 'qù',
+      symbol: '去',
+    }, {
+      translation: 'Foreign country',
+      pinyin: 'wàiguó',
+      symbol: '外国',
+    }, {
+      translation: 'To invite someone | To play host',
+      pinyin: 'qĭng kè',
+      symbol: '请 客',
+    }, {
+      translation: 'Yesterday',
+      pinyin: 'zuótiān',
+      symbol: '昨天',
+    }, {
+      translation: 'So',
+      pinyin: 'suŏyĭ',
+      symbol: '所以',
+    }, ],
   }, ],
 };
 
