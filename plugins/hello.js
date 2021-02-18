@@ -685,7 +685,7 @@ var simplified = {
     }, {
       translation: 'To sing',
       pinyin: 'chàng',
-      symbol: '为',
+      symbol: '唱',
     }, {
       translation: 'Song',
       pinyin: 'gē',
