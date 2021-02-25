@@ -739,7 +739,7 @@ var simplified = {
       pinyin: 'chángcháng',
       symbol: '常常',
     }, {
-      translation: 'In that case | Open',
+      translation: 'In that case | Then',
       pinyin: 'nà',
       symbol: '那',
     }, {
@@ -762,6 +762,81 @@ var simplified = {
       translation: 'So',
       pinyin: 'suŏyĭ',
       symbol: '所以',
+    }, ],
+  }, {
+    name: 'Eight',
+    items: [{
+      translation: 'Small | Little',
+      pinyin: 'xiǎo',
+      symbol: '小',
+    }, {
+      translation: 'A long time',
+      pinyin: 'hǎo jiǔ',
+      symbol: '好 久',
+    }, {
+      translation: 'Very',
+      pinyin: 'hǎo',
+      symbol: '好',
+    }, {
+      translation: 'Long (of time)',
+      pinyin: 'jiǔ',
+      symbol: '久',
+    }, {
+      translation: 'Pretty good',
+      pinyin: 'búcuò',
+      symbol: '不 错',
+    }, {
+      translation: 'Wrong',
+      pinyin: 'cuò',
+      symbol: '错',
+    }, {
+      translation: 'To want to | Would like to | To think',
+      pinyin: 'xiǎng',
+      symbol: '想',
+    }, {
+      translation: 'To feel | To think',
+      pinyin: 'juéde',
+      symbol: '觉得',
+    }, {
+      translation: 'Interesting',
+      pinyin: 'yǒu yìsi',
+      symbol: '有 意思',
+    }, {
+      translation: 'Meaning',
+      pinyin: 'yìsi',
+      symbol: '意思',
+    }, {
+      translation: 'Only',
+      pinyin: 'zhǐ',
+      symbol: '只',
+    }, {
+      translation: 'To sleep',
+      pinyin: 'shuì jiào',
+      symbol: '睡 觉',
+    }, {
+      translation: 'To sleep',
+      pinyin: 'shuì',
+      symbol: '睡',
+    }, {
+      translation: 'Sleep',
+      pinyin: 'jiào',
+      symbol: '觉',
+    }, {
+      translation: 'Forget it | Never mind',
+      pinyin: 'suàn le',
+      symbol: '算 了',
+    }, {
+      translation: 'To look for',
+      pinyin: 'zhǎo',
+      symbol: '找',
+    }, {
+      translation: 'Other people | Another person',
+      pinyin: 'biérén',
+      symbol: '别人',
+    }, {
+      translation: 'Other',
+      pinyin: 'bié (de)',
+      symbol: '别 (的)',
     }, ],
   }, ],
 };
