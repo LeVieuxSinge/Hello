@@ -838,6 +838,117 @@ var simplified = {
       pinyin: 'bié (de)',
       symbol: '别 (的)',
     }, ],
+  }, {
+    name: 'Nine',
+    items: [{
+      translation: '(Interjectory particle used to soften a question)',
+      pinyin: 'ya',
+      symbol: '呀',
+    }, {
+      translation: 'To enter',
+      pinyin: 'jìn',
+      symbol: '进',
+    }, {
+      translation: 'Fast | Quick | Quickly',
+      pinyin: 'kuài',
+      symbol: '快',
+    }, {
+      translation: 'To come in',
+      pinyin: 'jìn lai',
+      symbol: '进 来',
+    }, {
+      translation: 'To come',
+      pinyin: 'lái',
+      symbol: '来',
+    }, {
+      translation: 'To introduce',
+      pinyin: 'jièshào',
+      symbol: '介绍',
+    }, {
+      translation: 'Once | A bit',
+      pinyin: 'yí xià',
+      symbol: '一下',
+    }, {
+      translation: 'Happy | Pleased',
+      pinyin: 'gāoxìng',
+      symbol: '高兴',
+    }, {
+      translation: 'Pretty',
+      pinyin: 'piàoliang',
+      symbol: '漂亮',
+    }, {
+      translation: 'To sit',
+      pinyin: 'zuò',
+      symbol: '坐',
+    }, {
+      translation: 'At | In | On',
+      pinyin: 'zài',
+      symbol: '在',
+    }, {
+      translation: 'Where',
+      pinyin: 'nǎr',
+      symbol: '哪儿',
+    }, {
+      translation: 'School',
+      pinyin: 'xuéxiào',
+      symbol: '学校',
+    }, {
+      translation: 'To drink',
+      pinyin: 'hē',
+      symbol: '喝',
+    }, {
+      translation: 'A little | A bit | Some',
+      pinyin: 'diǎn(r)',
+      symbol: '点(儿)',
+    }, {
+      translation: 'Tea',
+      pinyin: 'chá',
+      symbol: '茶',
+    }, {
+      translation: 'Coffee',
+      pinyin: 'kāfēi',
+      symbol: '咖啡',
+    }, {
+      translation: '(A sentence-fi nal particle)',
+      pinyin: 'ba',
+      symbol: '吧',
+    }, {
+      translation: 'To want',
+      pinyin: 'yào',
+      symbol: '要',
+    }, {
+      translation: '(Measure word for bottles) | Bottle',
+      pinyin: 'píng',
+      symbol: '瓶',
+    }, {
+      translation: '[Coke or Pepsi] Cola',
+      pinyin: 'kělè',
+      symbol: '可乐',
+    }, {
+      translation: 'Can | May',
+      pinyin: 'kěyǐ',
+      symbol: '可以',
+    }, {
+      translation: 'Sorry',
+      pinyin: 'duìbuqǐ',
+      symbol: '对不起',
+    }, {
+      translation: 'To give',
+      pinyin: 'gěi',
+      symbol: '给',
+    }, {
+      translation: '(Measure word for cup and glass)',
+      pinyin: 'bēi',
+      symbol: '杯',
+    }, {
+      translation: 'Water',
+      pinyin: 'shuǐ',
+      symbol: '水',
+    }, {
+      translation: '(A personal name)',
+      pinyin: 'Gāo Xiǎoyīn',
+      symbol: '高小音',
+    }, ],
   }, ],
 };
 
