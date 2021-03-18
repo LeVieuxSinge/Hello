@@ -103,6 +103,10 @@ export default {
             title: 'Week 9',
             to: '/chinese-simplified/week-9'
           },
+          {
+            title: 'Week 10',
+            to: '/chinese-simplified/week-10'
+          },
         ],
       },
     ],

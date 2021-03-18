@@ -949,6 +949,49 @@ var simplified = {
       pinyin: 'Gāo Xiǎoyīn',
       symbol: '高小音',
     }, ],
+  }, {
+    name: 'Ten',
+    items: [{
+      translation: 'To have fun | To play',
+      pinyin: 'wán(r)',
+      symbol: '玩(儿)',
+    }, {
+      translation: '(A dynamic particle)',
+      pinyin: 'le',
+      symbol: '了',
+    }, {
+      translation: 'Library',
+      pinyin: 'túshūguǎn',
+      symbol: '图书馆',
+    }, {
+      translation: 'Together',
+      pinyin: 'yìqǐ',
+      symbol: '一起',
+    }, {
+      translation: 'To chat',
+      pinyin: 'liáo tiān(r)',
+      symbol: '聊天(儿)',
+    }, {
+      translation: 'To chat',
+      pinyin: 'liáo',
+      symbol: '聊',
+    }, {
+      translation: 'Sky',
+      pinyin: 'tiān',
+      symbol: '天',
+    }, {
+      translation: 'Not until | Only then',
+      pinyin: 'cái',
+      symbol: '才',
+    }, {
+      translation: 'To go home',
+      pinyin: 'huí jiā',
+      symbol: '回 家',
+    }, {
+      translation: 'To return',
+      pinyin: 'huí',
+      symbol: '回',
+    }, ],
   }, ],
 };
 
