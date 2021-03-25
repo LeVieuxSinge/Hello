@@ -992,6 +992,145 @@ var simplified = {
       pinyin: 'huí',
       symbol: '回',
     }, ],
+  }, {
+    name: 'Eleven',
+    items: [{
+      translation: 'To | For',
+      pinyin: 'gěi',
+      symbol: '给',
+    }, {
+      translation: 'To make a phone call',
+      pinyin: 'dǎ diànhuà',
+      symbol: '打 电话',
+    }, {
+      translation: 'Telephone',
+      pinyin: 'diànhuà',
+      symbol: '电话',
+    }, {
+      translation: '(On telephone) Hello! | Hey!',
+      pinyin: 'wéi',
+      symbol: '喂',
+    }, {
+      translation: 'To be present | To be at (a place)',
+      pinyin: 'zài',
+      symbol: '在',
+    }, {
+      translation: 'Precisely | Exactly',
+      pinyin: 'jiù',
+      symbol: '就',
+    }, {
+      translation: 'You (honorific for 你)',
+      pinyin: 'nín',
+      symbol: '您',
+    }, {
+      translation: 'Which',
+      pinyin: 'nǎ/něi',
+      symbol: '哪',
+    }, {
+      translation: '(Polite measure word for people)',
+      pinyin: 'wèi',
+      symbol: '位',
+    }, {
+      translation: 'Afternoon',
+      pinyin: 'xiàwǔ',
+      symbol: '下午',
+    }, {
+      translation: 'Time',
+      pinyin: 'shíjiān',
+      symbol: '时间',
+    }, {
+      translation: 'Question | Problem',
+      pinyin: 'wèntí',
+      symbol: '问题',
+    }, {
+      translation: 'Will | Be going to | To want to | To have a desire to',
+      pinyin: 'yào',
+      symbol: '要',
+    }, {
+      translation: 'To have a meeting',
+      pinyin: 'kāi huì',
+      symbol: '开 会',
+    }, {
+      translation: 'To open | To hold (a meeting, party, etc.)',
+      pinyin: 'kāi',
+      symbol: '开',
+    }, {
+      translation: 'Meeting',
+      pinyin: 'huì',
+      symbol: '会',
+    }, {
+      translation: 'Morning',
+      pinyin: 'shàngwǔ',
+      symbol: '上午',
+    }, {
+      translation: '(Measure word for class periods)',
+      pinyin: 'jié',
+      symbol: '节',
+    }, {
+      translation: 'Class | Course | Lesson',
+      pinyin: 'kè',
+      symbol: '课',
+    }, {
+      translation: 'Grade in school',
+      pinyin: 'niánjí',
+      symbol: '年级',
+    }, {
+      translation: 'To give or take a test | Test',
+      pinyin: 'kǎo shì',
+      symbol: '考 试',
+    }, {
+      translation: 'To give or take a test',
+      pinyin: 'kǎo',
+      symbol: '考',
+    }, {
+      translation: 'Test | To try | To experiment',
+      pinyin: 'shì',
+      symbol: '试',
+    }, {
+      translation: 'After | From now on | Later on',
+      pinyin: 'yǐhòu',
+      symbol: '以后',
+    }, {
+      translation: 'Free time',
+      pinyin: 'kòng(r)',
+      symbol: '空(儿)',
+    }, {
+      translation: 'If',
+      pinyin: 'yàoshi',
+      symbol: '要是',
+    }, {
+      translation: 'Convenient',
+      pinyin: 'fāngbiàn',
+      symbol: '方便',
+    }, {
+      translation: 'To go to | To arrive',
+      pinyin: 'dào',
+      symbol: '到',
+    }, {
+      translation: 'Office',
+      pinyin: 'bàngōngshì',
+      symbol: '办公室',
+    }, {
+      translation: 'All right | O.K.',
+      pinyin: 'xíng',
+      symbol: '行',
+    }, {
+      translation: 'To wait | To wait for',
+      pinyin: 'děng',
+      symbol: '等',
+    }, {
+      translation: 'Don’t',
+      pinyin: 'bié',
+      symbol: '别',
+    }, {
+      translation: 'polite',
+      pinyin: 'kèqi',
+      symbol: '客气',
+    }, {
+      translation: 'Teacher Chang',
+      pinyin: 'Cháng lǎoshī',
+      symbol: '常 老师',
+    }, ],
   }, ],
 };
 
