@@ -1131,6 +1131,69 @@ var simplified = {
       pinyin: 'Cháng lǎoshī',
       symbol: '常 老师',
     }, ],
+  }, {
+    name: 'Twelve',
+    items: [{
+      translation: 'Next one',
+      pinyin: 'xià ge',
+      symbol: '下 个',
+    }, {
+      translation: 'Below | Next',
+      pinyin: 'xià',
+      symbol: '下',
+    }, {
+      translation: 'Chinese language',
+      pinyin: 'Zhōngwén',
+      symbol: '中文',
+    }, {
+      translation: 'Language | Script | Written language',
+      pinyin: 'wén',
+      symbol: '文',
+    }, {
+      translation: 'To help',
+      pinyin: 'bāng',
+      symbol: '帮',
+    }, {
+      translation: 'To prepare',
+      pinyin: 'zhǔnbèi',
+      symbol: '准备',
+    }, {
+      translation: 'To practice',
+      pinyin: 'liànxí',
+      symbol: '练习',
+    }, {
+      translation: 'To say | To speak',
+      pinyin: 'shuō',
+      symbol: '说',
+    }, {
+      translation: '(A sentence-fi nal particle of exclamation, interrogation, etc.)',
+      pinyin: 'a',
+      symbol: '啊',
+    }, {
+      translation: 'But',
+      pinyin: 'dànshì',
+      symbol: '但是',
+    }, {
+      translation: 'Must | To have to',
+      pinyin: 'děi',
+      symbol: '得',
+    }, {
+      translation: 'With',
+      pinyin: 'gēn',
+      symbol: '跟',
+    }, {
+      translation: 'To meet up | To meet with',
+      pinyin: 'jiàn miàn',
+      symbol: '见 面',
+    }, {
+      translation: 'Face',
+      pinyin: 'miàn',
+      symbol: '面',
+    }, {
+      translation: 'To come back',
+      pinyin: 'huí lai ',
+      symbol: '回 来',
+    }, ],
   }, ],
 };
 
