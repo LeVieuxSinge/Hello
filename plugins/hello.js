@@ -1194,6 +1194,113 @@ var simplified = {
       pinyin: 'huí lai ',
       symbol: '回 来',
     }, ],
+  }, {
+    name: 'Thirteen',
+    items: [{
+      translation: 'To talk',
+      pinyin: 'shuō huà',
+      symbol: '说 话',
+    }, {
+      translation: 'Word | Speech',
+      pinyin: 'huà',
+      symbol: '话',
+    }, {
+      translation: 'The previous one',
+      pinyin: 'shàng ge',
+      symbol: '上个',
+    }, {
+      translation: '(A structural particle)',
+      pinyin: 'de',
+      symbol: '得',
+    }, {
+      translation: 'To review',
+      pinyin: 'fùxí',
+      symbol: '复习',
+    }, {
+      translation: 'To write',
+      pinyin: 'xiě',
+      symbol: '写',
+    }, {
+      translation: 'Character',
+      pinyin: 'zì',
+      symbol: '字',
+    }, {
+      translation: 'Slow',
+      pinyin: 'màn',
+      symbol: '慢',
+    }, {
+      translation: '(Measure word for long, thin, infl exible objects such as pens, rifl es, etc.)',
+      pinyin: 'zhī',
+      symbol: '枝',
+    }, {
+      translation: 'Pen',
+      pinyin: 'bǐ',
+      symbol: '笔',
+    }, {
+      translation: '(Measure word for fl at objects, paper, pictures, etc.)',
+      pinyin: 'zhāng',
+      symbol: '张',
+    }, {
+      translation: 'Paper',
+      pinyin: 'zhǐ',
+      symbol: '纸',
+    }, {
+      translation: 'To teach',
+      pinyin: 'jiāo',
+      symbol: '教',
+    }, {
+      translation: 'How | How come',
+      pinyin: 'zěnme',
+      symbol: '怎么',
+    }, {
+      translation: 'To understand',
+      pinyin: 'dǒng',
+      symbol: '懂',
+    }, {
+      translation: 'Really',
+      pinyin: 'zhēn',
+      symbol: '真',
+    }, {
+      translation: 'Where',
+      pinyin: 'nǎli',
+      symbol: '哪里',
+    }, {
+      translation: 'To preview',
+      pinyin: 'yùxí',
+      symbol: '预习',
+    }, {
+      translation: 'To study | To learn',
+      pinyin: 'xué',
+      symbol: '学',
+    }, {
+      translation: '(Prefix for ordinal numbers)',
+      pinyin: 'dì',
+      symbol: '第',
+    }, {
+      translation: 'grammar',
+      pinyin: 'yǔfǎ',
+      symbol: '语法',
+    }, {
+      translation: 'Easy',
+      pinyin: 'róngyì',
+      symbol: '容易',
+    }, {
+      translation: 'New words | Vocabulary',
+      pinyin: 'shēngcí',
+      symbol: '生词',
+    }, {
+      translation: 'Many | Much',
+      pinyin: 'duō',
+      symbol: '多',
+    }, {
+      translation: 'Chinese characters',
+      pinyin: 'Hànzì',
+      symbol: '汉字',
+    }, {
+      translation: 'Difficult',
+      pinyin: 'nán',
+      symbol: '难',
+    }, ],
   }, ],
 };
 
