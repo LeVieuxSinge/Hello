@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chinese-simplified/numbers", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chinese-simplified/week-10", {data:[{}],fetch:[],mutations:void 0});
