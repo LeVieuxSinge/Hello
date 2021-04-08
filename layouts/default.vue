@@ -119,6 +119,10 @@ export default {
             title: 'Week 13',
             to: '/chinese-simplified/week-13'
           },
+          {
+            title: 'Week 14',
+            to: '/chinese-simplified/week-14'
+          },
         ],
       },
     ],

@@ -1301,6 +1301,69 @@ var simplified = {
       pinyin: 'nán',
       symbol: '难',
     }, ],
+  }, {
+    name: 'Fourteen',
+    items: [{
+      translation: 'Usually',
+      pinyin: 'píngcháng',
+      symbol: '平常',
+    }, {
+      translation: 'Early',
+      pinyin: 'zǎo',
+      symbol: '早',
+    }, {
+      translation: 'So | This',
+      pinyin: 'zhème',
+      symbol: '这么',
+    }, {
+      translation: 'Late',
+      pinyin: 'wǎn',
+      symbol: '晚',
+    }, {
+      translation: 'Morning',
+      pinyin: 'zǎoshang',
+      symbol: '早上',
+    }, {
+      translation: 'Homework | Schoolwork',
+      pinyin: 'gōngkè',
+      symbol: '功课',
+    }, {
+      translation: 'Everybody',
+      pinyin: 'dàjiā',
+      symbol: '大家',
+    }, {
+      translation: 'To go to a class | To start a class | To be in class',
+      pinyin: 'shàng kè',
+      symbol: '上 课',
+    }, {
+      translation: 'To begin | To start | Beginning',
+      pinyin: 'kāishǐ',
+      symbol: '开始',
+    }, {
+      translation: 'To read aloud',
+      pinyin: 'niàn',
+      symbol: '念',
+    }, {
+      translation: 'Text of a lesson',
+      pinyin: 'kèwén',
+      symbol: '课文',
+    }, {
+      translation: 'Sound recording | To record',
+      pinyin: 'lùyīn',
+      symbol: '录音',
+    }, {
+      translation: 'To study | To learn',
+      pinyin: 'xuéxí',
+      symbol: '学习',
+    }, {
+      translation: 'Handsome',
+      pinyin: 'shuài',
+      symbol: '帅',
+    }, {
+      translation: 'Cool',
+      pinyin: 'kù',
+      symbol: '酷',
+    }, ],
   }, ],
 };
 
