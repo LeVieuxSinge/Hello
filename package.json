@@ -14,7 +14,7 @@
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
-    "@nuxtjs/style-resources": "^1.0.0",
+    "@nuxtjs/style-resources": "^1.2.0",
     "@nuxtjs/vuetify": "^1.11.3",
     "nuxt-animejs": "^1.2.1",
     "push-dir": "^0.4.1",
