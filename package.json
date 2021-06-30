@@ -10,7 +10,7 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "core-js": "^3.8.2",
+    "core-js": "^3.15.2",
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
