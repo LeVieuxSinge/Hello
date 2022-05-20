@@ -18,7 +18,7 @@
     "@nuxtjs/vuetify": "^1.11.3",
     "nuxt-animejs": "^1.2.1",
     "push-dir": "^0.4.1",
-    "sass": "^1.32.5",
+    "sass": "^1.52.0",
     "sass-loader": "^10.1.1"
   }
 }
