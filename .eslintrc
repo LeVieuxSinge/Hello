@@ -1,0 +1,80 @@
+{
+    "root": true,
+    "extends": [
+        "@nuxtjs/eslint-config-typescript"
+    ],
+    "rules": {
+        "indent": [
+            "error",
+            4,
+            {
+                "SwitchCase": 1
+            }
+        ],
+        "space-before-function-paren": [
+            "error",
+            "never"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "arrow-parens": [
+            "error",
+            "always"
+        ],
+        "no-trailing-spaces": [
+            "error",
+            {
+                "skipBlankLines": true,
+                "ignoreComments": true
+            }
+        ],
+        "comma-dangle": [
+            "off"
+        ],
+        "import/no-named-as-default-member": [
+            "off"
+        ],
+        "capitalized-comments": [
+            "warn",
+            "always",
+            {
+                "ignoreConsecutiveComments": true
+            }
+        ],
+        "brace-style": [
+            "error",
+            "stroustrup",
+            {
+                "allowSingleLine": false
+            }
+        ],
+        "@typescript-eslint/no-inferrable-types": "off",
+        "vue/max-attributes-per-line": [
+            "warn",
+            {
+                "singleline": 1,
+                "multiline": 1
+            }
+        ],
+        "vue/singleline-html-element-content-newline": [
+            "warn",
+            {
+                "ignoreWhenNoAttributes": false,
+                "ignoreWhenEmpty": true
+            }
+        ],
+        "vue/block-tag-newline": [
+            "warn",
+            {
+                "singleline": "always",
+                "multiline": "always"
+            }
+        ]
+    }
+}

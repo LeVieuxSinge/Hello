@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate && copyfiles -a -F -u 1 dist/**/* ../../dist",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+  },
+  "devDependencies": {
+    "@hypernym/nuxt-anime": "^2.1.0",
+    "@mdi/font": "7.2.96",
+    "@nuxt/kit": "^3.4.3",
+    "@types/node": "^18",
+    "copyfiles": "^2.4.1",
+    "nuxt": "^3.5.1",
+    "push-dir": "^0.4.1",
+    "sass": "^1.62.1",
+    "vite-plugin-vuetify": "1.0.2",
+    "vuetify": "3.3.1"
+  }
+}
