@@ -1,4 +1,3 @@
 @forward 'vuetify/settings' with (
-  $button-color: green,
-  $button-font-weight: 700
+  $navigation-drawer-content-overflow-y: hidden,
 );

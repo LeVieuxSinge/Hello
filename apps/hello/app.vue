@@ -1,76 +1,18 @@
-<template>
-  <v-app>
-    <v-navigation-drawer
-      v-model="drawer"
-    >
-      <v-list
-        nav
-        dense
-      >
-        <v-list-group
-          v-for="(group, index) in groups"
-          :key="index"
-          v-model="group.active"
-          :disabled="group.disabled"
-          prepend-icon="mdi-translate"
-        >
-          <template #activator>
-            <v-list-item-title>
-              {{ group.title }}
-            </v-list-item-title>
-          </template>
-
-          <v-list-item
-            v-for="(item, index) in group.items"
-            :key="index"
-            :to="item.to"
-            nuxt
-            class="pl-16 mb-1"
-          >
-            <v-list-item-title>
-              {{ item.title }}
-            </v-list-item-title>
-          </v-list-item>
-        </v-list-group>
-
-        <v-list-item class="justify-center">
-          <v-switch
-            v-model="theme.global.name"
-            inset
-            label="Theme"
-            hide-details
-          />
-        </v-list-item>
-      </v-list>
-    </v-navigation-drawer>
-
-    <v-app-bar>
-      <v-app-bar-nav-icon
-        @click="drawer = !drawer"
-      />
-      <v-toolbar-title>
-        Hello
-      </v-toolbar-title>
-    </v-app-bar>
-
-    <v-main>
-      <v-container
-        class="fill-height"
-        fluid
-      >
-        <v-btn />
-        <NuxtPage />
-      </v-container>
-    </v-main>
-  </v-app>
-</template>
-
 <script lang="ts" setup>
 import { useDisplay, useTheme } from "vuetify";
-const { smAndDown } = useDisplay();
-const theme = useTheme();
 
+const { data } = await useFetch("/api/hello");
+console.log(data);
+
+const { mobile } = useDisplay();
+const theme = useTheme();
 const drawer = ref(false);
+
+function toggleTheme() {
+    theme.global.name.value = theme.global.name.value === "light" ? "dark" : "light";
+}
+
+
 const groups = reactive([{
     title: "Chinese (Simplified)",
     active: false,
@@ -151,3 +93,191 @@ const groups = reactive([{
     ],
 }]);
 </script>
+
+<template>
+  <v-app :theme="theme.global.name.value">
+    <v-navigation-drawer
+      v-model="drawer"
+      :expand-on-hover="!mobile"
+      :rail="!mobile"
+      rounded="e-lg"
+      :width="mobile ? 300 : 350"
+    >
+      <template #default>
+        <v-list>
+          <v-list-item
+            prepend-icon="mdi-hand-wave"
+            title="Hello"
+            subtitle="A language learning app"
+            rounded="lg"
+          />
+        </v-list>
+
+        <v-divider />
+
+        <v-list
+          density="compact"
+          nav
+        >
+          <v-list-group
+            v-for="(group, index) in groups"
+            :key="index"
+          >
+            <template #activator="{ props }">
+              <v-list-item
+                v-bind="props"
+                prepend-icon="mdi-account-circle"
+                :title="group.title"
+                rounded="lg"
+              />
+            </template>
+
+            <v-list-item
+              v-for="(item, index) in group.items"
+              :key="index"
+              :to="item.to"
+              :title="item.title"
+              nuxt
+              rounded="lg"
+            />
+          </v-list-group>
+        </v-list>
+      </template>
+
+      <template #append>
+        <v-divider />
+
+        <v-list
+          nav
+        >
+          <v-list-item
+            :prepend-icon="theme.global.name.value === 'light' ? 'mdi-weather-night' : 'mdi-weather-sunny'"
+            :title="theme.global.name.value === 'light' ? 'Night Mode' : 'Day Mode'"
+            rounded="lg"
+            @click="() => toggleTheme()"
+          />
+        </v-list>
+      </template>
+    </v-navigation-drawer>
+
+    <v-app-bar
+      v-if="mobile"
+      flat
+      color="transparent"
+    >
+      <v-app-bar-nav-icon
+        @click="drawer = !drawer"
+      />
+    </v-app-bar>
+
+    <v-main>
+      <v-container
+        fluid
+        class="fill-height"
+      >
+        <v-row
+          justify="center"
+        >
+          <v-sheet
+            class="sheet pa-4"
+            elevation="6"
+            rounded="lg"
+          >
+            <v-row
+              class="flex-column fill-height"
+              dense
+              justify="space-between"
+              align="center"
+            >
+              <v-col
+                class="text-caption"
+                cols="auto"
+                style="opacity: 0.7;"
+              >
+                Translation
+              </v-col>
+
+              <v-col
+                class="item"
+                cols="auto"
+              >
+                <!-- <v-sheet
+                  class="item-content pa-2"
+                  height="100%"
+                  outlined
+                  rounded
+                  :class="sections.translation.active ? 'item-content-active' : 'null'"
+                  @click="sections.translation.active = true"
+                >
+                  <div class="text-subtitle-1">
+                    {{ sections.translation.content }}
+                  </div>
+                </v-sheet> -->
+              </v-col>
+
+              <v-col
+                class="text-caption"
+                cols="auto"
+                style="opacity: 0.7;"
+              >
+                Pinyin
+              </v-col>
+
+              <v-col
+                class="item"
+                cols="auto"
+              >
+                <!-- <v-sheet
+                  class="item-content pa-2"
+                  height="100%"
+                  outlined
+                  rounded
+                  :class="sections.pinyin.active ? 'item-content-active' : 'null'"
+                  @click="sections.pinyin.active = true"
+                >
+                  <div class="text-h6">
+                    {{ sections.pinyin.content }}
+                  </div>
+                </v-sheet> -->
+              </v-col>
+
+              <v-col
+                class="text-caption"
+                cols="auto"
+                style="opacity: 0.7;"
+              >
+                Symbol
+              </v-col>
+
+              <v-col
+                class="item"
+                cols="auto"
+              >
+                <!-- <v-sheet
+                  class="item-content pa-2"
+                  height="100%"
+                  outlined
+                  rounded
+                  :class="sections.symbol.active ? 'item-content-active' : 'null'"
+                  @click="sections.symbol.active = true"
+                >
+                  <div class="text-h2">
+                    {{ sections.symbol.content }}
+                  </div>
+                </v-sheet> -->
+              </v-col>
+
+              <v-col cols="auto">
+                <v-btn
+                  elevation="4"
+                >
+                  Next
+                </v-btn>
+              </v-col>
+            </v-row>
+          </v-sheet>
+        </v-row>
+      </v-container>
+    </v-main>
+  </v-app>
+</template>
