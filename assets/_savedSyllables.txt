@@ -1,0 +1,594 @@
+# consonant b https://www.archchinese.com/chinese_pinyin.html
+
+a
+a1
+ai
+ai1
+ai2
+ai3
+ai4
+an
+an1
+an3
+an4
+ang
+ang1
+ang2
+ang4
+ao
+ao1
+ao2
+ao3
+ao4
+b
+ba
+ba1
+ba2
+ba3
+ba4
+bai
+bai1
+bai2
+bai3
+bai4
+ban
+ban1
+ban3
+ban4
+bang
+bang1
+bang3
+bang4
+bao
+bao1
+bao2
+bao3
+bao4
+bei
+bei1
+bei3
+bei4
+ben
+ben1
+ben3
+ben4
+beng
+beng1
+beng2
+beng3
+beng4
+bi
+bi1
+bi2
+bi3
+bi4
+bian
+bian1
+bian3
+bian4
+biao
+biao1
+biao3
+biao4
+X bie
+X bin
+X bing
+X bo
+X bu
+X ca
+X cai
+X can
+X cang
+X cao
+X ce
+X cen
+X ceng
+X cha
+X chai
+X chan
+X chang
+X chao
+X che
+X chen
+X cheng
+X chi
+X chong
+X chou
+X chu
+X chua
+X chuai
+X chuan
+X chuang
+X chui
+X chun
+X chuo
+X ci
+X cong
+X cou
+X cu
+X cuan
+X cui
+X cun
+X cuo
+X da
+X dai
+X dan
+X dang
+X dao
+X de
+X dei
+X den
+X deng
+X di
+X dian
+X diao
+X die
+X ding
+X diu
+X dong
+X dou
+X du
+X duan
+X dui
+X dun
+X duo
+e
+e1
+e2
+e3
+e4
+ei
+ei1
+en
+en1
+en4
+eng
+er
+er2
+er3
+er4
+X fa
+X fan
+X fang
+X fei
+X fen
+X feng
+X fiao
+X fo
+X fou
+X fu
+X ga
+X gai
+X gan
+X gang
+X gao
+X ge
+X gei
+X gen
+X geng
+X gong
+X gou
+X gu
+X gua
+X guai
+X guan
+X guang
+X gui
+X gun
+X guo
+X ha
+X hai
+X han
+X hang
+X hao
+X he
+X hei
+X hen
+X heng
+X hm
+X hong
+X hou
+X hu
+X hua
+X huai
+X huan
+X huang
+X hui
+X hun
+X huo
+i
+ia
+ian
+iang
+iao
+ie
+in
+ing
+io
+iong
+iu
+X ji
+X jia
+X jian
+X jiang
+X jiao
+X jie
+X jin
+X jing
+X jiong
+X jiu
+X ju
+X juan
+X jue
+X jun
+X ka
+X kai
+X kan
+X kang
+X kao
+X ke
+X ken
+X keng
+X kong
+X kou
+X ku
+X kua
+X kuai
+X kuan
+X kuang
+X kui
+X kun
+X kuo
+X la
+X lai
+X lan
+X lang
+X lao
+X le
+X lei
+X leng
+X li
+X lia
+X lian
+X liang
+X liao
+X lie
+X lin
+X ling
+X liu
+X lo
+X long
+X lou
+X lu
+X luan
+X lun
+X luo
+X lv
+X lve
+X m
+X ma
+X mai
+X man
+X mang
+X mao
+X me
+X mei
+X men
+X meng
+X mi
+X mian
+X miao
+X mie
+X min
+X ming
+X miu
+X mo
+X mou
+X mu
+X n
+X na
+X nai
+X nan
+X nang
+X nao
+X ne
+X nei
+X nen
+X neng
+X ni
+X nian
+X niang
+X niao
+X nie
+X nin
+X ning
+X niu
+X nong
+X nou
+X nu
+X nuan
+X nun
+X nuo
+X nv
+X nve
+o
+o1
+o4
+ong
+ou
+ou1
+ou3
+ou4
+X pa
+X pai
+X pan
+X pang
+X pao
+X pei
+X pen
+X peng
+X pi
+X pian
+X piao
+X pie
+X pin
+X ping
+X po
+X pou
+X pu
+X qi
+X qia
+X qian
+X qiang
+X qiao
+X qie
+X qin
+X qing
+X qiong
+X qiu
+X qu
+X quan
+X que
+X qun
+X ran
+X rang
+X rao
+X re
+X ren
+X reng
+X ri
+X rong
+X rou
+X ru
+X rua
+X ruan
+X rui
+X run
+X ruo
+X sa
+X sai
+X san
+X sang
+X sao
+X se
+X sen
+X seng
+X sha
+X shai
+X shan
+X shang
+X shao
+X she
+X shei
+X shen
+X sheng
+X shi
+X shou
+X shu
+X shua
+X shuai
+X shuan
+X shuang
+X shui
+X shun
+X shuo
+X si
+X song
+X sou
+X su
+X suan
+X sui
+X sun
+X suo
+X ta
+X tai
+X tan
+X tang
+X tao
+X te
+X teng
+X ti
+X tian
+X tiao
+X tie
+X ting
+X tong
+X tou
+X tu
+X tuan
+X tui
+X tun
+X tuo
+u
+ua
+uai
+uan
+uang
+uià
+un
+uo
+v
+ve
+van
+vn
+wa
+wa1
+wa2
+wa3
+wa4
+wai
+wai1
+wai3
+wai4
+wan
+wan1
+wan2
+wan3
+wan4
+wang
+wang1
+wang2
+wang3
+wang4
+wei
+wei1
+wei2
+wei3
+wei4
+wen
+wen1
+wen2
+wen3
+wen4
+weng
+weng1
+weng3
+weng4
+wo
+wo1
+wo3
+wo4
+wu
+wu1
+wu2
+wu3
+wu4
+X xi
+X xia
+X xian
+X xiang
+X xiao
+X xie
+X xin
+X xing
+X xiong
+X xiu
+X xu
+X xuan
+X xue
+X xun
+ya
+ya1
+ya2
+ya3
+ya4
+ya5
+yan
+yan1
+yan2
+yan3
+yan4
+yang
+yang1
+yang2
+yang3
+yang4
+yao
+yao1
+yao2
+yao3
+yao4
+ye
+ye1
+ye2
+ye3
+ye4
+yi1
+yi2
+yi3
+yi4
+yin
+yin1
+yin2
+yin3
+yin4
+ying
+ying1
+ying2
+ying3
+ying4
+yo1
+yong
+yong1
+yong2
+yong3
+yong4
+you
+you1
+you2
+you3
+you4
+yu
+yu1
+yu2
+yu3
+yu4
+yuan
+yuan1
+yuan2
+yuan3
+yuan4
+yue
+yue1
+yue4
+yun
+yun1
+yun2
+yun3
+yun4
+X za
+X zai
+X zan
+X zang
+X zao
+X ze
+X zei
+X zen
+X zeng
+X zha
+X zhai
+X zhan
+X zhang
+X zhao
+X zhe
+X zhen
+X zheng
+X zhi
+X zhong
+X zhou
+X zhu
+X zhua
+X zhuai
+X zhuan
+X zhuang
+X zhui
+X zhun
+X zhuo
+X zi
+X zong
+X zou
+X zu
+X zuan
+X zui
+X zun
+X zuo

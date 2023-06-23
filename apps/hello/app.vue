@@ -1,8 +1,10 @@
 <script lang="ts" setup>
 import { useDisplay, useTheme } from "vuetify";
 
-const { data } = await useFetch("/api/hello");
-console.log(data);
+console.log(useNuxtApp().$yan);
+onMounted(() => {
+    useNuxtApp().$yan.synthesis("shíjiān");
+});
 
 const { mobile } = useDisplay();
 const theme = useTheme();
@@ -11,7 +13,6 @@ const drawer = ref(false);
 function toggleTheme() {
     theme.global.name.value = theme.global.name.value === "light" ? "dark" : "light";
 }
-
 
 const groups = reactive([{
     title: "Chinese (Simplified)",
